@@ -1,0 +1,65 @@
+[
+    {
+      "address": "Mannerheimintie 10",
+      "postalCode": "00100",
+      "city": "Helsinki",
+      "latitude": 60.170833,
+      "longitude": 24.9375
+    },
+    {
+      "address": "Aleksanterinkatu 52",
+      "postalCode": "00100",
+      "city": "Helsinki",
+      "latitude": 60.16952,
+      "longitude": 24.95242
+    },
+    {
+      "address": "Iso Omena, Piispansilta 11",
+      "postalCode": "02230",
+      "city": "Espoo",
+      "latitude": 60.161416,
+      "longitude": 24.738508
+    },
+    {
+      "address": "Sello, Leppävaarankatu 3-9",
+      "postalCode": "02600",
+      "city": "Espoo",
+      "latitude": 60.218067,
+      "longitude": 24.811898
+    },
+    {
+      "address": "Myyrmanni, Iskoskuja 3",
+      "postalCode": "01600",
+      "city": "Vantaa",
+      "latitude": 60.261529,
+      "longitude": 24.85815
+    },
+    {
+      "address": "Jumbo, Vantaanportinkatu 3",
+      "postalCode": "01510",
+      "city": "Vantaa",
+      "latitude": 60.29414,
+      "longitude": 24.963423
+    },
+    {
+      "address": "Itis, Itäkatu 1-7",
+      "postalCode": "00930",
+      "city": "Helsinki",
+      "latitude": 60.209559,
+      "longitude": 25.081392
+    },
+    {
+      "address": "Rautatieasema, Kaivokatu 1",
+      "postalCode": "00100",
+      "city": "Helsinki",
+      "latitude": 60.171944,
+      "longitude": 24.941389
+    },
+    {
+      "address": "Lauttasaari, Lauttasaarentie 28",
+      "postalCode": "00200",
+      "city": "Helsinki",
+      "latitude": 60.15766,
+      "longitude": 24.87806
+    }
+  ]
